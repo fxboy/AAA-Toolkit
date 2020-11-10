@@ -2,27 +2,10 @@
 
 为AAA学子提供所用到的开发环境和开发工具集合软件,提供国内镜像下载,无需进入官网下载！！！
 
-### 使用教程
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### 更新日志
+#### AAA-ToolKit V1.0 [2020-11-11]
+1.新增JAVA和python的环境包以及开发工具
+2.优化页面流畅
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
