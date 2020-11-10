@@ -1,33 +1,35 @@
 {
-    'version':'V1.0',
-    'url':'https://www.fanxs.cn/AAA-Toolkit/v1.0.exe',
-    'update':[
-        'V1.0':'1.啥也没更新'
-    ]
-    'classify':[
-          {
-              'title':'环境',
-              'desc':'简介',
-              'content':[{
-                  'title':'JDK 1.8',
-                  'icon':'图标',
-                  'desc':'简介',
-                  'platform':'Windows',
-                  'size':'188MB'
-                  'url':''
-              }]
-          },
-          {
-              'title':'工具',
-              'desc':'简介',
-              'content':[{
-                  'title':'JDK 1.8',
-                  'icon':'图标',
-                  'desc':'简介',
-                  'platform':'Windows',
-                  'size':'188MB'
-                  'url':''
-              }]
-          }
+    "version": "BeJson",
+    "url": "http://www.bejson.com",
+    "update": "更新日志",
+    "classify": [
+        {
+            "title": "环境",
+            "desc": "简介",
+            "content":[
+                 {
+                      "title": "JDK 1.8",
+		      "icon": "图标",
+	              "desc": "简介",
+		      "platform": "Windows",
+		      "size": "188MB",
+		      "url": ""
+                 }
+             ]
+        },
+        {
+            "title": "开发工具",
+            "desc": "简介",
+            "content":[
+                 {
+                      "title": "Visuastudio",
+		      "icon": "图标",
+	              "desc": "简介",
+		      "platform": "Windows",
+		      "size": "188MB",
+		      "url": ""
+                 }
+             ]
+        }
     ]
 }
