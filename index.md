@@ -1,8 +1,8 @@
 ## AAA-ToolKit
 
-AAA所用到的工具,环境快速下载
+为AAA学子提供所用到的开发环境和开发工具集合软件,提供国内镜像下载,无需进入官网下载！！！
 
-### Markdown
+### 使用教程
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
